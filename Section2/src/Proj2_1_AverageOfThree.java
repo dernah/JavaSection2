@@ -20,6 +20,6 @@ public class Proj2_1_AverageOfThree {
 
         System.out.print("The average of the three numbers is: " + mean);
 
-        //test
+        //test changes
     }
 }
